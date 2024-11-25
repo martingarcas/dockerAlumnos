@@ -54,3 +54,6 @@ El proyecto consta de tres contenedores Docker que alojan:
 1. **Crear los contenedores**:
    ```bash
    docker-compose up
+2. **Reiniciar los contenedores**:
+  ```bash
+  docker-compose restart   
